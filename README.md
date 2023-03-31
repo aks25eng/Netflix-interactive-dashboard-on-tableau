@@ -4,7 +4,7 @@
 
 Tableau public link:- https://public.tableau.com/app/profile/anoop.kumar.singh5287/viz/netflixdashboard_16757075341020/Netflix
 
-## Problem statement- Create a dashboard showing  
+## Problem statement- Create a dashboard showing  the parameter depicing the  growth of  digital contents on Netflix over the years. It helps understand and study the development of the streaming services ecosystem that is associated with each content/genre/ rating, segmented based on different factors.
 
 Type , Ratings , date added, Genre, Description , Director , Release year , Duration 
 
