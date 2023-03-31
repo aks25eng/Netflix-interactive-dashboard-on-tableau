@@ -2,6 +2,8 @@
 
 ![Netflix dashboard image](https://user-images.githubusercontent.com/73480837/227633488-d6a4928b-734a-4bee-999e-24e1b80ba07a.png)
 
+Tableau public link:- https://public.tableau.com/app/profile/anoop.kumar.singh5287/viz/netflixdashboard_16757075341020/Netflix
+
 ## Problem statement- Create a dashboard showing  
 
 Type , Ratings , date added, Genre, Description , Director , Release year , Duration 
